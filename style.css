@@ -1,0 +1,57 @@
+*{
+    margin: 0 5px 0;
+}
+.navOne {
+    color: whitesmoke;
+    line-height: 0.5;
+}
+.nav2 {
+    color: black;
+    line-height: 3.5;
+    font-size: larger;
+    letter-spacing: 2.5px;
+}
+.bottomLine{
+    border-bottom: 2px solid black;
+    width: 100px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.cardContainer{
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.card {
+    background: transparent;
+    border: 0px none;
+}
+.card-body {
+    text-align: center;
+}
+.btn{
+    
+    font-weight: bold;
+    width: 100px;
+    border: 1.5px solid black;
+}
+
+.div-footr1{
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.social-div {
+    line-height: 4;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.end-div{
+    
+    font-weight: bolder;
+    letter-spacing: 1.2px;
+    margin-left: 80px;
+    padding-bottom: 20px;
+    line-height: 5;
+}
+

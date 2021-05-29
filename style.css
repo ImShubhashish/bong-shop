@@ -1,6 +1,11 @@
 *{
     margin: 0 5px 0;
 }
+ a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
+
 .navOne {
     color: whitesmoke;
     line-height: 0.5;
@@ -55,3 +60,40 @@
     line-height: 5;
 }
 
+/* Contact US CSS */
+.contact {
+    background-color: whitesmoke;
+}
+
+.head {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: x-large;
+    font-weight: bolder;
+    letter-spacing: 1px;
+    padding-bottom: 35px;
+    border-bottom: 1px solid black;
+}
+
+label {
+    font-size: larger;
+    font-weight: bold;
+    margin-left: 0;
+}
+
+ input {
+    line-height: 3;
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+.msg {
+    padding: 0 58px;
+    margin-top: 40px;
+
+}
+textarea{
+    width: 100%;
+    border: 2px solid black;
+    border-radius: 3px;
+}
